@@ -9,3 +9,14 @@
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=20388600&theme=tokyonight)
 
 ![Visitor Count](https://profile-counter.glitch.me/{baobaomi900901}/count.svg)
+
+
+![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
+
+![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
+
+
+
+badgen的url格式说明：
+
+https://badgen.net/badge/{subject}/{status}/{color}?icon=github
