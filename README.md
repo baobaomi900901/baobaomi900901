@@ -1,4 +1,16 @@
-# baobaomi900901
+<h1 style="text-align:center">Hi 👋, I'm @MobyTang</h1>
+
+<h3 align="center">A designer and developer from ZhuHai, China</h3>
+
+- 🔭 I'm working for [金智维](https://www.kingsware.cn/)
+
+- 🌱 I’m currently learning Houdunren
+
+- 👨‍💻 Checkout my portfolio page at [Portfolio](https://mobytang.com)
+
+- 💬 Ask me about **CSS, GSAP**
+
+- 📫 How to reach me <a href="mailto:baobaomi900901@icloud.com">@Moby</a>
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=baobaomi900901&show_icons=true&theme=tokyonight)
 
@@ -10,13 +22,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{baobaomi900901}/count.svg)
 
-
 ![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 
-
-
-badgen的url格式说明：
+badgen 的 url 格式说明：
 
 https://badgen.net/badge/{subject}/{status}/{color}?icon=github
