@@ -2,7 +2,7 @@
 
 <h3 align="center">A designer and developer from ZhuHai, China</h3>
 
-- 🔭 I'm working for [金智维](https://www.kingsware.cn/)
+- 🔭 I'm working for []
 
 - 🌱 I’m currently learning Houdunren
 
