@@ -35,8 +35,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <!-- 推荐使用官方的 github-readme-stats，非常稳定 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=baobaomi900901&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baobaomi900901&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" />
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=baobaomi900901&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" />
 </div>
 
 <br />
