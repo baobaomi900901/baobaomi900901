@@ -4,7 +4,16 @@
 
   <p>
     🛠️ I have mastered and built complete GUI automation technologies for <b>Windows</b> and <b>macOS</b>,<br>
-    and I'm currently researching <b>Linux GUI automation</b>.
+    and I'm currently researching <b>Linux GUI automation</b>.<br>
+    🚀 My 2-year plan is to build a unified GUI automation stack for <b>Windows / macOS / Linux</b>,<br>
+    consumable by any agent such as <b>Codex</b>, <b>WorkBuddy</b>, and <b>DSH</b>.
+  </p>
+
+  <p>
+    🛠️ 我精通并拥有完整的 <b>Windows</b> 与 <b>macOS</b> GUI 自动化技术，<br>
+    目前正在研究 <b>Linux GUI 自动化</b>。<br>
+    🚀 近两年规划：完成 <b>Windows / macOS / Linux</b> 统一的 GUI 自动化技术栈，<br>
+    提供给任何 Agent（如 <b>Codex</b>、<b>WorkBuddy</b>、<b>DSH</b>）消费。
   </p>
 
   <a href="https://mobytang.com">
@@ -20,11 +29,23 @@
 
 <br />
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me / 关于我
+
+#### 🇬🇧 English
 - 🔭 I’m currently working on **Web Design & Development**
-- 🌱 I’m currently learning **Houdini** *(注：原文写的 Houdunren 如果是 Houdini，请以此为准；如果是某门课程，可自行修改)*
+- 🌱 I’m currently learning **Houdini**
 - 💬 Ask me about **CSS, GSAP**
+- 🛠️ I have complete GUI automation experience on **Windows** and **macOS**, and I’m currently researching **Linux GUI automation**
+- 🚀 My 2-year plan: build a unified **Windows / macOS / Linux GUI automation stack** for any agent to consume, such as **Codex**, **WorkBuddy**, and **DSH**
 - 📫 How to reach me: **baobaomi900901@icloud.com**
+
+#### 🇨🇳 中文
+- 🔭 目前专注于 **Web 设计与开发**
+- 🌱 正在学习 **Houdini**
+- 💬 可以问我关于 **CSS、GSAP** 的问题
+- 🛠️ 精通并拥有完整的 **Windows** 与 **macOS** GUI 自动化技术，目前正在研究 **Linux GUI 自动化**
+- 🚀 近两年规划：完成 **Windows / macOS / Linux 统一的 GUI 自动化技术栈**，提供给任何 Agent（如 **Codex**、**WorkBuddy**、**DSH**）消费
+- 📫 联系方式：**baobaomi900901@icloud.com**
 
 ### 🛠️ Tech Stack
 <div align="center">
