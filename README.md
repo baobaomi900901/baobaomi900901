@@ -1,7 +1,12 @@
 <div align="center">
   <h1>Hi there 👋, I'm @MobyTang</h1>
   <h3>🎨 A designer and developer from ZhuHai, China 🇨🇳</h3>
-  
+
+  <p>
+    🛠️ I have mastered and built complete GUI automation technologies for <b>Windows</b> and <b>macOS</b>,<br>
+    and I'm currently researching <b>Linux GUI automation</b>.
+  </p>
+
   <a href="https://mobytang.com">
     <img src="https://img.shields.io/badge/Portfolio-mobytang.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
