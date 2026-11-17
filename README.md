@@ -16,9 +16,6 @@
     consumable by any agent such as <b>Codex</b>, <b>WorkBuddy</b>, and <b>DSH</b>.
   </p>
 
-  <a href="https://mobytang.com">
-    <img src="https://img.shields.io/badge/Portfolio-mobytang.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
   <a href="mailto:baobaomi900901@icloud.com">
     <img src="https://img.shields.io/badge/Email-baobaomi900901@icloud.com-red?style=for-the-badge&logo=apple&logoColor=white" alt="Email">
   </a>
